@@ -28,5 +28,8 @@ $(document).ready(function(){
 <div class="button fixed">
 	<i class="fa fa-share-alt fa-2x"></i>
 </div>
-
+<div class="slide-3">
+        
+  
+</div>
 ```
