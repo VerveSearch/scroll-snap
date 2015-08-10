@@ -21,6 +21,12 @@ $(document).ready(function(){
 		});
 },jQuery);
 
+```
 
+```html
+
+<div class="button fixed">
+	<i class="fa fa-share-alt fa-2x"></i>
+</div>
 
 ```
